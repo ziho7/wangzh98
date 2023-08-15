@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Zhihang, I'm a master student majoring in computer science at the University of Manchester, UK 🚀</div>  
+### <div align="center">I'm Zhihang, I am a back-end developer working at ByteDance/Tiktok 🚀</div>  
 
 
-- 🔭 I just got a job and am going to Beijing to become a back-end developer
+- 🔭 I got my master's degree of computer science at the University of Manchester, UK
   
-- 🌱 I’m currently learning Flutter and Kubernetes  
+- 🌱 I’m currently learning React and Kubernetes
   
 - ❓ My blog is www.cnblog.com/wangzhihang
   
-- ⚡ Hobbies: Football, Chess, Starcraft2 
+- ⚡ Hobbies: Football, Photography, Chess, Starcraft2
 
 <br/>  
 
